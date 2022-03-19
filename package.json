@@ -1,0 +1,9 @@
+{
+  "name": "mackerel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Kangping <kangping@kangping.jp> (https://kangping.jp)",
+  "license": "ISC"
+}
